@@ -3,7 +3,7 @@
 # 💻 Aryan Rawat
 **B.Tech CSE Student @ Lovely Professional University | Cloud & Full-Stack Developer**
 
-<img src="banner.png" width="600" alt="Aryan's Banner" />
+<img src="banner.png" width=auto alt="Aryan's Banner" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Java+Intern+@+Labmentix;Competitive+Programmer;NCC+Cadet+🎖️)](https://git.io/typing-svg)
 
