@@ -3,20 +3,20 @@
 # 💻 Aryan Rawat
 **B.Tech CSE Student @ Lovely Professional University | Cloud & Full-Stack Developer**
 
-<img src="banner.png" width=auto alt="Aryan's Banner" />
+<img src="banner.png" width="600" alt="Aryan's Banner" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Java+Intern+@+Labmentix;Competitive+Programmer;NCC+Cadet+🎖️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Former+Java+Intern+@+Labmentix;Competitive+Programmer;NCC+Cadet+🎖️)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 
-I am a **Computer Science & Engineering student** at LPU with a strong focus on building scalable, cloud-native applications. Currently, I am honing my backend engineering skills as a **Java Development Intern** at Labmentix. I have a deep interest in **Cloud Computing (AWS)**, **Serverless Architectures**, and **Full-Stack Development**.
+I am a **Computer Science & Engineering student** at LPU with a strong focus on building scalable, cloud-native applications. I recently completed my **Java Development Internship** at Labmentix, where I honed my backend engineering skills. I have a deep interest in **Cloud Computing (AWS)**, **Serverless Architectures**, and **Full-Stack Development**.
 
 Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level football player, which has instilled in me a high degree of discipline and team-first leadership.
 
 - 🎓 **Currently**: B.Tech CSE (2023-2027) @ Lovely Professional University
-- 💼 **Interning**: Java Development Intern @ Labmentix
+- 💼 **Experience**: Former Java Development Intern @ Labmentix (Oct '25 - Mar '26)
 - ☁️ **Cloud Focus**: AWS (Lambda, S3, CloudWatch, Serverless)
 - 🧠 **Problem Solving**: 150+ Problems solved across LeetCode & HackerRank
 - 🎖️ **Values**: Discipline, Precision, and Continuous Innovation
