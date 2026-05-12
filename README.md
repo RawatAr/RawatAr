@@ -80,7 +80,7 @@ Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[SpendLens](https://github.com/RawatAr/Credex)** | AI-powered spend audit platform for startups. Surfaces overspend in AI toolchains and optimizes cloud API costs. | `Next.js` `TypeScript` `Supabase` |
-| **[RaahSarthi](https://github.com/RawatAr/RaahSarthi)** | Smart SaaS routing application with multi-modal transport options and dynamic waypoint discovery. | `React` `Node.js` `Leaflet` |
+| **[AI Travel Planner](https://github.com/RawatAr/AI-Travel-Planner)** | LLM-powered itinerary generator using Gemini API. Features personalized travel suggestions and dynamic cost estimation. | `Next.js` `Gemini AI` `Tailwind` |
 | **[smart-serverless-pipeline](https://github.com/RawatAr/smart-serverless-pipeline)** | High-level AWS Cloud/DevOps project featuring Infrastructure as Code (IaC) and automated CI/CD. | `Terraform` `AWS Lambda` `GitHub Actions` |
 
 ---
