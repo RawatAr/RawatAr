@@ -79,9 +79,9 @@ Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[SpendLens](https://github.com/RawatAr/Credex)** | AI-powered financial optimization platform providing real-time expense insights and saving recommendations. | `React` `Tailwind` `Node.js` |
-| **[Smart Serverless Pipeline](https://github.com/RawatAr/RawatAr)** | Event-driven pipeline on AWS enabling scalable, automated data processing with full observability. | `AWS Lambda` `S3` `CloudWatch` |
-| **[RxScan AI](https://github.com/RawatAr/RxScanAI)** | Deep Learning based medical prescription analyzer that digitizes and extracts information using Computer Vision. | `Python` `PyTorch` `FastAPI` |
+| **[SpendLens](https://github.com/RawatAr/Credex)** | AI-powered spend audit platform for startups. Surfaces overspend in AI toolchains and optimizes cloud API costs. | `Next.js` `TypeScript` `Supabase` |
+| **[RaahSarthi](https://github.com/RawatAr/RaahSarthi)** | Smart SaaS routing application with multi-modal transport options and dynamic waypoint discovery. | `React` `Node.js` `Leaflet` |
+| **[smart-serverless-pipeline](https://github.com/RawatAr/smart-serverless-pipeline)** | High-level AWS Cloud/DevOps project featuring Infrastructure as Code (IaC) and automated CI/CD. | `Terraform` `AWS Lambda` `GitHub Actions` |
 
 ---
 
