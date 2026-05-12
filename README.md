@@ -79,9 +79,9 @@ Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Smart Serverless Pipeline](https://github.com/RawatAr/RawatAr)** | Event-driven pipeline on AWS enabling scalable, automated processing with full observability. | `AWS Lambda` `S3` `CloudWatch` |
-| **[AI Travel Planner](https://github.com/RawatAr/RawatAr)** | Flask-based backend system handling real-time data processing for personalized itineraries. | `Flask` `REST APIs` `Python` |
-| **[Java GUI Dashboard](https://github.com/RawatAr/RawatAr)** | Hands-on Java application featuring modular UI design and predictive model integration. | `Java Swing` `JavaFX` |
+| **[SpendLens](https://github.com/RawatAr/Credex)** | AI-powered financial optimization platform providing real-time expense insights and saving recommendations. | `React` `Tailwind` `Node.js` |
+| **[Smart Serverless Pipeline](https://github.com/RawatAr/RawatAr)** | Event-driven pipeline on AWS enabling scalable, automated data processing with full observability. | `AWS Lambda` `S3` `CloudWatch` |
+| **[RxScan AI](https://github.com/RawatAr/RxScanAI)** | Deep Learning based medical prescription analyzer that digitizes and extracts information using Computer Vision. | `Python` `PyTorch` `FastAPI` |
 
 ---
 
