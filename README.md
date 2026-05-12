@@ -3,7 +3,7 @@
 # 💻 Aryan Rawat
 **B.Tech CSE Student @ Lovely Professional University | Cloud & Full-Stack Developer**
 
-<img src="banner.png" width="800" alt="Aryan's Banner" />
+<img src="banner.png" width="600" alt="Aryan's Banner" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Java+Intern+@+Labmentix;Competitive+Programmer;NCC+Cadet+🎖️)](https://git.io/typing-svg)
 
@@ -65,8 +65,8 @@ Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level
 ### 📊 Engineering Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RawatAr&show_icons=true&theme=dark&count_private=true&hide_border=true" width="400" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawatAr&layout=compact&theme=dark&hide_border=true" width="300" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RawatAr&show_icons=true&theme=dark&count_private=true&hide_border=true" width="400" alt="Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RawatAr&layout=compact&theme=dark&hide_border=true" width="300" alt="Top Langs" />
 </div>
 
 <div align="center">
