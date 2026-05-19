@@ -70,7 +70,7 @@ Beyond code, I am an **NCC Gold Medalist** in Debate and a former National-level
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawatAr&theme=dark&hide_border=true" width="710" alt="Streak" />
+  <img src="https://streak-stats.vercel.app/?user=RawatAr&theme=dark&hide_border=true" width="710" alt="Streak" />
 </div>
 
 ---
